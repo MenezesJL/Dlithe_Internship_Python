@@ -1,2 +1,2 @@
 # Dlithe_Internship_Python
-Internship report on Python conducted by Dlithe
+Internship report and assignments on Python conducted by Dlithe
